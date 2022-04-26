@@ -9,7 +9,7 @@
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
 <img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
 <img align="left" alt="angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/640px-Angular_full_color_logo.svg.png" />
-<img align="left" alt="java" width="26px" src="https://www.blockachain.gr/wp-content/uploads/2018/03/java-coffee-cup-logo.png" />
+<img align="left" alt="java" width="26px" src="https://camo.githubusercontent.com/db8613ac0249c366c8f4267b9009173f77f2bb8a9bb4d9e3657836d0dbe563a7/68747470733a2f2f7777772e626c6f636b61636861696e2e67722f77702d636f6e74656e742f75706c6f6164732f323031382f30332f6a6176612d636f666665652d6375702d6c6f676f2e706e67" />
 <img align="left" alt="springboot" width="26px" src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png"/>
 <img align="left" alt="py" width="26px" src="https://i.imgur.com/4pIzF9V.png" />
 <img align="left" alt="heroku" width="26px" src="https://seeklogo.com/images/H/heroku-logo-B774A78667-seeklogo.com.png"/>
